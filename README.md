@@ -1,9 +1,14 @@
-### Hi there 👋
+Hello, I am Ondřej Mottl.
 
-My name is Ondřej Mottl and I am ressearcher with the main focus on community ecology and interest in data science.
+I am a researcher with a main focus on quantitative ecology, macroecology, palaeoecology, and community ecology with an interest in data science.
 
-- 🔭 I’m currently working on developing state-of-the-art tools for processing palaeo-ecological data to study global biodiversity patterns
-- 💬 Ask me about RStats, GitHub, biodiversity, ...
+🔭 I'm currently working on developing state-of-the-art tools to study global biodiversity patterns and lowering the barriers to scientific exploration.
+
+💬 Ask me about R, GitHub, biodiversity, and more...
+
+## Personal website
+
+I have a **personal website** with info about my work and how to contact me. Check it out [here](https://ondrejmottl.github.io/)
 
 ### Here are some GitHub stats:
 
